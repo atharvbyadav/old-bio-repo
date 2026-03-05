@@ -115,13 +115,6 @@
 
 ---
 
-### 🔮 Roadmap
-- ReconX Modular Dashboard  
-- Security Utility CLI Suite  
-- Interactive Documentation Portal  
-
----
-
 **Connect:** [🌐 Portfolio](https://atharvbyadav.github.io) | [💼 LinkedIn](https://linkedin.com/in/atharvbyadav) | [🐦 Twitter](https://twitter.com/atharvbyadav_) | [📧 Email](mailto:uuwr5t1s@duck.com)  
 
 > `"Don’t just scan the surface — enumerate everything."`
